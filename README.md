@@ -2,6 +2,7 @@
 
 ## Environment Setup
 ### Directories and Files
+```bash
 |--	GameTheory
 |	|--	Instance
 |	|--	result
@@ -18,6 +19,7 @@
 |	GTObj.py
 |	util.py
 |	init_util.py
+```
 
 #### File Explanations
 1. Initialization
