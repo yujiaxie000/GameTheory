@@ -78,3 +78,69 @@
 	python Solver_Benders.py --xAction=100 --yAction=100 --xMin=100.0 --xMax=200.0 --yMin=100.0 --yMax=20    0.0 --create=0 --total=10 --threadsNum=1 --timelimit=21600.0 --bendersResult=resultBender100.csv
 
 ```
+
+### Instance Mapping
+`Name` and `# of action` corresponds to `Name` and `# of action` in computational results from Table 2 and Table 3. `Instance Name` corresponds to the name of instances in the Instance folder.
+
+| Name | Instance Name | # of action |
+|------|---------------|-------------|
+| a1   | ins4          | 100         |
+| a2   | ins3          | 100         |
+| a3   | ins2          | 100         |
+| a4   | ins5          | 100         |
+| a5   | ins8          | 100         |
+| a6   | ins6          | 100         |
+| a7   | ins1          | 100         |
+| a8   | ins0          | 100         |
+| a9   | ins7          | 100         |
+| a10  | ins9          | 100         |
+| a11  | ins3          | 105         |
+| a12  | ins4          | 105         |
+| a13  | ins5          | 105         |
+| a14  | ins2          | 105         |
+| a15  | ins8          | 105         |
+| a16  | ins1          | 105         |
+| a17  | ins6          | 105         |
+| a18  | ins7          | 105         |
+| a19  | ins0          | 105         |
+| a20  | ins9          | 105         |
+| a21  | ins9          | 110         |
+| a22  | ins0          | 110         |
+| a23  | ins7          | 110         |
+| a24  | ins6          | 110         |
+| a25  | ins1          | 110         |
+| a26  | ins8          | 110         |
+| a27  | ins2          | 110         |
+| a28  | ins5          | 110         |
+| a29  | ins4          | 110         |
+| a30  | ins3          | 110         |
+| b1   | ins1          | 120         |
+| b2   | ins6          | 120         |
+| b3   | ins8          | 120         |
+| b4   | ins9          | 120         |
+| b5   | ins7          | 120         |
+| b6   | ins0          | 120         |
+| b7   | ins3          | 120         |
+| b8   | ins4          | 120         |
+| b9   | ins5          | 120         |
+| b10  | ins2          | 120         |
+| b11  | ins4          | 125         |
+| b12  | ins3          | 125         |
+| b13  | ins2          | 125         |
+| b14  | ins5          | 125         |
+| b15  | ins6          | 125         |
+| b16  | ins1          | 125         |
+| b17  | ins8          | 125         |
+| b18  | ins9          | 125         |
+| b19  | ins0          | 125         |
+| b20  | ins7          | 125         |
+| b21  | ins4          | 130         |
+| b22  | ins3          | 130         |
+| b23  | ins2          | 130         |
+| b24  | ins5          | 130         |
+| b25  | ins8          | 130         |
+| b26  | ins6          | 130         |
+| b27  | ins1          | 130         |
+| b28  | ins0          | 130         |
+| b29  | ins7          | 130         |
+| b30  | ins9          | 130         |
