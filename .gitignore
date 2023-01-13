@@ -9,6 +9,7 @@ __pycache__/
 # data
 *.csv
 *.zip
+*.lnk
 
 # Distribution / packaging
 .Python
