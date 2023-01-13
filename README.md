@@ -80,7 +80,7 @@
 ```
 
 ### Instance Mapping
-`Name` and `# of action` corresponds to `Name` and `# of action` in computational results from Table 2 and Table 3. `Instance Name` corresponds to the name of instances in the Instance folder.
+`Name` and `# of action` corresponds to `Name` and `# of action` in computational results from Table 2 & 3 of the paper submitted to INFORMS Journal of Computing. `Instance Name` corresponds to the name of instances in the Instance folder.
 
 | Name | Instance Name | # of action |
 |------|---------------|-------------|
